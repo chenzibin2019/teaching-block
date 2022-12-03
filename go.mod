@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-block-starter
+module github.com/chenzibin2019/teaching-block
 
 go 1.19
